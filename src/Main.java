@@ -6,7 +6,7 @@ public class Main {
         task4();
     }
     public static void task1(){
-        System.out.println("hello world");
+
     }
     public static void task2(){
 
